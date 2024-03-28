@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "region": "Asia",
+        "population": 40218234,
+        "numericCode": "004",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
+    },
+    {
+        "name": "\u00c5land Islands",
+        "capital": "Mariehamn",
+        "region": "Europe",
+        "population": 28875,
+        "numericCode": "248",
+        "flag": "https://flagcdn.com/ax.svg"
+    },
+    {
+        "name": "Albania",
+        "capital": "Tirana",
+        "region": "Europe",
+        "population": 2837743,
+        "numericCode": "008",
+        "flag": "https://flagcdn.com/al.svg"
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "region": "Africa",
+        "population": 44700000,
+        "numericCode": "012",
+        "flag": "https://flagcdn.com/dz.svg"
+    },
+    {
+        "name": "American Samoa",
+        "capital": "Pago Pago",
+        "region": "Oceania",
+        "population": 55197,
+        "numericCode": "016",
+        "flag": "https://flagcdn.com/as.svg"
+    },
+    {
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "region": "Europe",
+        "population": 77265,
+        "numericCode": "020",
+        "flag": "https://flagcdn.com/ad.svg"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "region": "Africa",
+        "population": 32866268,
+        "numericCode": "024",
+        "flag": "https://flagcdn.com/ao.svg"
+    },
+    {
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "region": "Americas",
+        "population": 13452,
+        "numericCode": "660",
+        "flag": "https://flagcdn.com/ai.svg"
+    }
+]
