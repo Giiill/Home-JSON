@@ -1,0 +1,21 @@
+{
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "subregion": "Southern Asia",
+    "region": "Asia",
+    "population": 40218234,
+    "area": 652230,
+    "timezones": [
+        "UTC+04:30"
+    ],
+    "borders": [
+        "IRN",
+        "PAK",
+        "TKM",
+        "UZB",
+        "TJK",
+        "CHN"
+    ],
+    "numericCode": "004",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
+}
